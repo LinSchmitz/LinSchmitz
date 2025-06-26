@@ -32,7 +32,7 @@ I also enjoy drawing and visual storytelling using **Procreate**.
 ---
 
 ## 📫 Let's connect!
-- 🐦 [Twitter](https://x.com/LinSchmtz) 
+- 🐦 [X](https://x.com/LinSchmtz) 
 ---
 
 ## 🧠 Fun facts:
