@@ -12,10 +12,17 @@ I also enjoy drawing and visual storytelling using **Procreate**.
 
 ---
 
+### Skills:
+
+-	**Front-end:** Next.js – ReactJS – javaScript - Redux – Tailwind CSS
+-	**Test:** Jest, Vitest and React Testing Library
+-	**Database:** Oracle
+
+---
 ## 🔧 Currently working on:
 - Personal portfolio website (React + Tailwind)
 - Mini UI components library for fun (buttons, modals, etc.)
-- ...
+- 
 ---
 
 ## 📚 Currently learning:
@@ -33,23 +40,6 @@ I also enjoy drawing and visual storytelling using **Procreate**.
 - My dream: building apps that look and feel beautiful 😄
 
 
-Skilled in building scalable and high-performance web applications and solving complex challenges.
 
-
-
-### Skills:
-
--	**Front-end:** Next.js – ReactJS – javaScript - Redux – Tailwind CSS
--	**Test:** Jest, Vitest and React Testing Library
--	**Database:** Oracle
-
----
- 
-  
-### Links ( Comming soon)
-
-* [Twitter](https://x.com/LinSchmtz)
-* [LinkedIn](https://www.linkedin.com/in/)
-* [Portfolio](https://)
 
  
