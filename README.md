@@ -1,16 +1,25 @@
-## Hi there 👋
+ ### Hey, I'm Lin.Schmitz👋
+ 
+A Frontend Developer with 3+ years of experience in React.js, JavaScript. 
+& (many years in Oracle 😊 ).
+Interested in performance optimization and web standards. 
+Skilled in building scalable and high-performance web applications and solving complex challenges.
 
-<!--
-**LinSchmitz/LinSchmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+
+-	**Front-end:** Next.js – ReactJS – javaScript - Redux – Tailwind CSS
+-	**Test:** Jest, Vitest and React Testing Library
+-	**Database:** Oracle
+
+---
+ 
+  
+### Links ( Comming soon)
+
+* [Twitter](https://x.com/LinSchmtz)
+* [LinkedIn](https://www.linkedin.com/in/)
+* [Portfolio](https://)
+
+ 
