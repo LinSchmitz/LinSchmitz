@@ -18,25 +18,10 @@ I also enjoy drawing and visual storytelling using **Procreate**.
 -	**Database:** Oracle
 
 ---
-## 🔧 Currently working on:
-- Personal portfolio website (React + Tailwind)
-- Mini UI components library for fun (buttons, modals, etc.)
-- 
----
-
-## 📚 Currently learning:
-- `Next.js` 
-- Improving design-to-code workflows
-
----
 
 ## 📫 Let's connect!
 - 🐦 [X](https://x.com/LinSchmtz) 
----
 
-## 🧠 Fun facts:
-- I like combining **coding + art** into UI design
-- My dream: building apps that look and feel beautiful 😄
 
 
 
