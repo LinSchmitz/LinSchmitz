@@ -8,7 +8,6 @@ I also enjoy drawing and visual storytelling using **Procreate**.
 ## 💼 What I do
 - 🌐 Build responsive frontend apps with **React**, **JavaScript**, and **TailwindCSS**
 - 🎨 Create digital illustrations & UI sketches using **Procreate**
-- 🌍 Communicate fluently in **Farsi, English, Turkish** and have intermediate knowledge of **German** and some other Languages.
 
 ---
 
@@ -21,9 +20,3 @@ I also enjoy drawing and visual storytelling using **Procreate**.
 
 ## 📫 Let's connect!
 - 🐦 [X](https://x.com/LinSchmtz) 
-
-
-
-
-
- 
