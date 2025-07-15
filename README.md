@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Lin.Schmitz👋 – Frontend Developer & Digital Artist
+## 👋 Hi, I'm Lin Schmitz👋 
+## Frontend Developer & Digital Artist
 
 I'm a self-taught frontend developer passionate about building interactive and clean UIs with **ReactJS**.  
 I also enjoy drawing and visual storytelling using **Procreate**.
