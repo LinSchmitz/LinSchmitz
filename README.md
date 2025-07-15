@@ -14,7 +14,7 @@ I also enjoy drawing and visual storytelling using **Procreate**.
 ### Skills:
 -	**Front-end:** Next.js – ReactJS – javaScript - Redux – Tailwind CSS
 -	**Test:** Jest, Vitest and React Testing Library
--	**Database:** Oracle
+-	**Database:** Oracle, Supabase
 
 ---
 
